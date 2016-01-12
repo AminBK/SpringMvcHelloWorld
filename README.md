@@ -9,4 +9,9 @@ Command
 
 .\gradlew wrapper
 .\gradlew build
+
 java -jar build/libs/gs-serving-web-content-0.1.0.jar
+
+or
+
+.\gradlew bootRun
